@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "backend-210601",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
